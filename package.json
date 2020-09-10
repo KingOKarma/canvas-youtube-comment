@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KingOKarma/discordjs-template/issues"
   },
-  "homepage": "https://github.com/KingOKarma/discordjs-template#readme"
+  "homepage": "https://github.com/KingOKarma/discordjs-template#readme",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
 }
